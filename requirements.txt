@@ -1,2 +1,24 @@
-anthropic
-python-dotenv
+# Core dependencies for concept extraction from competitive exam questions
+csv
+argparse
+os
+
+# Optional: For future LLM API integration
+# anthropic>=0.25.0
+# python-dotenv
+
+
+# Optional: For advanced NLP features (if implemented)
+# nltk>=3.8
+# spacy>=3.4.0
+# scikit-learn>=1.2.0
+# pandas>=1.5.0
+
+# Optional: For enhanced text processing
+# regex>=2023.3.0
+# fuzzywuzzy>=0.18.0
+
+# Development and testing
+# pytest>=7.2.0
+# black>=23.0.0
+# flake8>=6.0.0
